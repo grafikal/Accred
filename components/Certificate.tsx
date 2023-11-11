@@ -79,6 +79,7 @@ const Certificate = ({
       fontSize: 120 * scaleFactor,
       fontWeight: "bold",
       color: textColor,
+      fontFamily: "serif",
     },
   });
 
